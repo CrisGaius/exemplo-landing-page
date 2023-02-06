@@ -5,4 +5,6 @@ Este projeto me ajudou a adquirir conhecimento em Flexbox, além de me auxilar n
 - HTML5
 - CSS3 <br>
 
+> **[Link do site](https://crisgaius.github.io/exemplo-landing-page/)**
+
 > **[Linkedin](https://www.linkedin.com/in/cristiano-santos-dev/)**
